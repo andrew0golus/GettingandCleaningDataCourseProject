@@ -1,0 +1,6 @@
+This code book describes the variables and values in file tidydataset.txt, as calculated by run_analysis.R script.
+The file holds four columns - three with variables (Subject, Activity, Measure) and one value column (mean(value)).
+Subject - ID of the subject in the test
+Activity - the activity performed when the measurements were taken
+Measure - the type of measurement that was taken
+mean(Value) - the mean value of the measurement taken for a given subject and activity.
